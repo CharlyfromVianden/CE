@@ -4,7 +4,11 @@ body {
   font-family: 'Merriweather', serif;
   font-size: 1.25rem;
 }
-
+.Timer{
+  background-color: #f56a79;
+  width: 185px;
+  margin: auto;
+}
 h1 {
   color: #66BFBF;
   font-size: 5.60rem;
